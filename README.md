@@ -1,4 +1,4 @@
-### GATEWAY FOR SELF-HOST OLLAMA
+# GATEWAY FOR SELF-HOST OLLAMA
 
 ## Purpose:
 * Mostly to tinker with **self-host** option and Ollama doesn't expose the end directly so a solution is to rely on a gateway server
