@@ -1,5 +1,14 @@
-### API GATEWAY FOR SELF-HOST OLLAMA
+### GATEWAY FOR SELF-HOST OLLAMA
 
+## Purpose:
+* Mostly to tinker with **self-host** option and Ollama doesn't expose the end directly so a solution is to rely on a gateway server
+* Nginx reverse proxy **doesn't work** directly on Ollama also for some reason
+
+## TODO:
+* Maybe turn into GO server or something else less generic than NodeJS
+* Logging and telemetry stuff
+* Add db connection to store all chat section
+  
 ## Notes:
 * Server Requirements: usually 2 vCPU and 8GB of RAM
 * Mind **https** config when deployed on the cloud
