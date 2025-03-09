@@ -1,6 +1,8 @@
 ### API GATEWAY FOR SELF-HOST OLLAMA
 
-#### Server Requirements: usually 2 vCPU and 8GB of RAM
+## Notes:
+* Server Requirements: usually 2 vCPU and 8GB of RAM
+* Mind **https** config when deployed on the cloud
 
 #### NGINX Setting
 
