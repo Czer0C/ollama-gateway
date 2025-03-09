@@ -1,7 +1,7 @@
 # GATEWAY FOR SELF-HOST OLLAMA
 
 ## Purpose:
-* Mostly to tinker with **self-host** option and Ollama doesn't expose the end directly so a solution is to rely on a gateway server
+* Mostly to tinker with **self-host** option as Ollama doesn't expose the endpoints directly so a solution is to rely on a gateway server
 * Nginx reverse proxy **doesn't work** directly on Ollama also for some reason
 
 ## TODO:
